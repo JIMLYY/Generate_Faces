@@ -13,8 +13,9 @@ networks (GANs) do it for you. In this project, I aim to generate new faces usin
 * Understanding of GANs
 * Understanding of hyperparameters and intuitions of tuning each hyperparameter 
 
-## Test 
- 
+## Demo 
+### These are the faces generated my GANs...
+ ![faces](Demo/generated_faces.png)
 
 :rocket::rocket::rocket:
 Cheers:+1:
